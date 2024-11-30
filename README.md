@@ -96,6 +96,3 @@ Executing: pwd
 
 Feel free to fork the repository and make improvements. Pull requests are welcome!
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
