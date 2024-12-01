@@ -45,7 +45,7 @@ A simple Python-based command-line tool that helps users execute common Linux co
 Clone the repository to your local machine:
 
 ```bash
-https://github.com/Karthikjl/Linux-terminal-Assistant
+git clone https://github.com/Karthikjl/Linux-terminal-Assistant
 cd Linux-terminal-Assistant
 ```
 
